@@ -9,6 +9,7 @@ By default training and testing dataset for this classification model is ***Cele
 3. numpy
 4. imgaug
 
+***while cloning this repo please make sure git lfs client is installed in local machine or else install it from [here](https://git-lfs.github.com/)***  
 *requirements.txt* can also be used to create the exact environment in which this model was created , trained , and tested in.  
 *Note : please download the [**celeb dataset**](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place it in data folder , as it will be used for training and inference.*
 
